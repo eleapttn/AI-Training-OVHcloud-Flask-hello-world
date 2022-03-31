@@ -1,1 +1,1 @@
-# Flask-app-OVHcloud
+# Flask-app-AI-Training-OVHcloud
