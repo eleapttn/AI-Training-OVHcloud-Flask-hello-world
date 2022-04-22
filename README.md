@@ -1,1 +1,1 @@
-# Flask-app-AI-Training-OVHcloud
+# Deploy a simple app with Flask with AI Training (OVHcloud)
